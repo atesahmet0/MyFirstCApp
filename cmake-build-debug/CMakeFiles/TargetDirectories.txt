@@ -1,0 +1,3 @@
+/Users/ates/CLionProjects/MyFirstCApp/cmake-build-debug/CMakeFiles/MyFirstCApp.dir
+/Users/ates/CLionProjects/MyFirstCApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ates/CLionProjects/MyFirstCApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
